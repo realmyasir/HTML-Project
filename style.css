@@ -1,0 +1,16 @@
+table {
+    border: 2px solid black;
+}
+body{
+    background-color: aqua;
+}
+.i {
+    color: hotpink;
+}
+.o {
+    color: hotpink;
+}
+h1 {
+    font-weight: 400;
+    font-size: 36px;
+}
